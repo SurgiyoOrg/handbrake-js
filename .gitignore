@@ -3,3 +3,4 @@ bin/HandbrakeCLI
 bin/HandbrakeCLI*
 tmp
 out
+.idea/*
